@@ -1,9 +1,4 @@
-/*
-@title: sprig_dodging
-@tags: ['beginner', 'tutorial']
-@addedOn: 2022-12-15
-@author: sam liu and lucas
-*/
+
 
 // define the sprites in our game
 const player = "p";
